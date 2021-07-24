@@ -144,4 +144,5 @@ document.getElementById("app").innerHTML = `
 <td><a href="https://www.youtube.com/watch?v=qTUc91b9mxI"><span class="blanco">Escuchar</span></a></td>
 </tr>
 </table>
+<h3 class="pat"> Participantes: Uriel Navarro Ramírez, Violeta Pineda López & Mauricio Falcon Melchor.<h3/>
 `;
