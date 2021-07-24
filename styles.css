@@ -54,6 +54,13 @@ td{
 .blanco{ font-weight:bold;
 color: rgb(0, 0, 0) ;}
 
+h3.pat{
+  color: #000;
+  font-size: 50%;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
 
 
 
