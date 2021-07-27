@@ -1,6 +1,0 @@
-importar  java.util. * ;
-público  de clase  hola_mundo {
-  public  static  void  main ( String [] args ) {
-    Sistema . fuera . println ( " Hola Mundo " );
-	}
-}
